@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Violeta",
+      "empresa": "FherCEO",
+      "email": "amablericsefher@gmail.com",
+      "telefono": "998911951",
+      "notas": "Cliente",
+      "id": 2
+    },
+    {
+      "nombre": "Test1ACTUALIZADO",
+      "empresa": "Test",
+      "email": "test@test.com",
+      "telefono": "932829292",
+      "notas": "Primer Test",
+      "id": 5
+    }
+  ]
+}
